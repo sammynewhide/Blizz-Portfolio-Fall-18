@@ -5,6 +5,13 @@
 ### Explanation of the code in here might be limited due to Finals Week studying. To see code regarding data structures,
 ### please see 'Blizz-Portfolio-Fall-18/Handmade Hero/code/handmade.cpp' and CRTL+F search for 'AddLowEntity'. Thank you for the understanding.
 
+### 'Windows Platform Layer' ###
+
+Please see 'Blizz-Portfolio-Fall-18/Handmade Hero/code/win32_handmade.cpp'
+// I have experience calling Windows functions in order to set up the game.
+// I imagine dealing with Windows and Xbox/PS platform layers are important for accessing networking functions
+
+
 ### "Sparse Entity Storage" ###
 
 // There was once a time in the game where every position in the world
@@ -48,3 +55,5 @@ for(unsigned int TileY = 0;
 // Each game object is an entity that has its own characteristics.
 // Since our world is big, we need a way for 
 // 
+
+
